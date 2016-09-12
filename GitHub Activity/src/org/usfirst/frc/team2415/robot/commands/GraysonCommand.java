@@ -10,7 +10,7 @@ import edu.wpi.first.wpilibj.command.Command;
 public class GraysonCommand extends Command {
     
 	//TODO: actually put your name in here
-	String name = "YOURNAME";
+	String name = "YourBitch";
 	
 	public GraysonCommand() {
         // Use requires() here to declare subsystem dependencies
