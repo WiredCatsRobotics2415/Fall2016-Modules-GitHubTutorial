@@ -10,7 +10,7 @@ import edu.wpi.first.wpilibj.command.Command;
 public class VishanCommand extends Command {
     
 	//TODO: actually put your name in here
-	String name = "YOURNAME";
+	String name = "Vishan";
 	
 	public VishanCommand() {
         // Use requires() here to declare subsystem dependencies
